@@ -17,6 +17,14 @@ description: Bongjun Kim's research
 
 [Paper ![pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH}}/pages/publications/icassp19_Kim.pdf)
 
+<br/>
+<br/>
+
+<!-- #### <u>Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology</u>
+*Query-By-Vocal Imitation (QBV) search systems enable searching a collection of audio files using a vocal imitation as a query. This can be useful when sounds do not have commonly agreed-upon text-labels, or many sounds share a label. As deep learning approaches have been successfully applied to QBV systems, datasets to build models have become more important. We present Vocal Imitation Set, a new vocal imitation dataset containing 11, 242 crowd-sourced vocal imitations of 302 sound event classes in the AudioSet sound event ontology. It is the largest publicly-available dataset of vocal imitations as well as the first to adopt the widely-used AudioSet ontology for a vocal imitation dataset. Each imitation recording in Vocal Imitation Set was rated by a human listener on how similar the imitation is to the recording it was an imitation of. Vocal Imitation Set also has an average of 10 different original recordings per sound class. Since each sound class has about 19 listener-vetted imitations and 10 original sound files, the data set is suited for training models to do fine-grained vocal imitation-based search within sound classes. We provide an example of using the dataset to measure how well the existing state-of-the-art in QBV search performs on fine-grained search.*
+
+[Paper ![pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH}}/pages/publications/icassp19_Kim.pdf) -->
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
