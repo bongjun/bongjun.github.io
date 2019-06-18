@@ -9,11 +9,15 @@ Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northw
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
+[Scholar](https://scholar.google.com/citations?user=s5RiD14AAAAJ&hl=en&oi=ao) | [Research gate](https://www.researchgate.net/profile/Bongjun_Kim3) | [Github](https://github.com/bongjun) | [Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/) | [twitter](https://twitter.com/iambongjun)
+
+Contact: bongjun[at]u.northwestern.edu
 
 ---
 
 
-<div class="container">
+
+<!-- <div class="container">
 <h4><a name="contact"></a>contact</h4>
     <div class="row-fluid">
         <div class="span5">
@@ -26,7 +30,7 @@ Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northw
                   title="Blue Ham" alt="Blue Ham"/></a>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- <div class="navbar">
   <div class="navbar-inner">
