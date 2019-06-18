@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Bongjun Kim
+description: Bongjun Kim is a PhD candidate at Northwestern University. 
+keywords: Machine learning, Audio, Human-Computer Interaction
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northwestern University and working at Interactive Audio Lab. His current research interests include human-computer interaction, interactive machine learning, audio/music signal processing, and multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,8 +18,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Bongjun Kim<br/>
+            Email: bongjun at u.northwestern.edu[<br/>
         </div>
 
         <div class="span2">
