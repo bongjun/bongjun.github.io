@@ -15,7 +15,7 @@ description: Bongjun Kim's research
 #### <u>Improving Content-based Audio Retrieval by Vocal Imitation Feedback</u>
 *Content-based audio retrieval including query-by-example (QBE) and query-by-vocal imitation (QBV) is useful when search-relevant text labels for the audio are unavailable, or text labels do not sufficiently narrow the search. However, a single query example may not provide sufficient information to ensure the target sound(s) in the database are the most highly ranked. In this paper, we adapt an existing model for generating audio embeddings to create a state-of-the-art similarity measure for audio QBE and QBV. We then propose a new method to update search results when top-ranked items are not relevant: The user provides an additional vocal imitation to illustrate what they do or do not want in the search results. This imitation may either be of some portion of the initial query example, or of a top-ranked (but incorrect) search result. Results show that adding vocal imitation feedback improves initial retrieval results by a statistically significant amount.*
 
-[Paper ![pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH}}/pages/publications/icassp19_Kim.pdf)
+[Paper ![pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH}}/pages/files/icassp19_Kim.pdf)
 
 <br/>
 <br/>
