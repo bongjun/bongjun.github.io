@@ -28,7 +28,7 @@ Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northw
     </div>
 </div>
 
-<div class="navbar">
+<!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
@@ -36,4 +36,4 @@ Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northw
           <li><a href="https://twitter.com/iambongjun">Twitter (@iambongjun)</a></li>
       </ul>
   </div>
-</div>
+</div> -->
