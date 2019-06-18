@@ -33,9 +33,10 @@ Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northw
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <!-- <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li> -->
+          <li><a href="http://www.bongjunkim.com/wp-content/uploads/2019/06/BK_cv_June_2019.pdf">CV</a></li>
+          <li><a href="https://github.com/bongjun">GitHub</a></li>
+          <li><a href="https://twitter.com/iambongjun">Twitter (@iambongjun)</a></li>
       </ul>
   </div>
 </div>
