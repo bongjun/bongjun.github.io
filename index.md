@@ -5,13 +5,13 @@ description: Bongjun Kim is a PhD candidate at Northwestern University.
 keywords: Machine learning, Audio, Human-Computer Interaction
 ---
 
-Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northwestern University and working at Interactive Audio Lab. His current research interests include human-computer interaction, interactive machine learning, audio/music signal processing, and multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.
+###### Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northwestern University and working at Interactive Audio Lab. His current research interests include human-computer interaction, interactive machine learning, audio/music signal processing, and multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+###### [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
-[Scholar](https://scholar.google.com/citations?user=s5RiD14AAAAJ&hl=en&oi=ao) | [Research gate](https://www.researchgate.net/profile/Bongjun_Kim3) | [Github](https://github.com/bongjun) | [Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/) | [twitter](https://twitter.com/iambongjun)
+###### [[Scholar](https://scholar.google.com/citations?user=s5RiD14AAAAJ&hl=en&oi=ao)] | [[Research gate](https://www.researchgate.net/profile/Bongjun_Kim3)] | [[Github](https://github.com/bongjun)] | [[Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/)] | [[twitter](https://twitter.com/iambongjun)]
 
-Contact: bongjun[at]u.northwestern.edu
+###### Contact: bongjun[at]u.northwestern.edu
 
 ---
 
