@@ -5,17 +5,17 @@ description: Bongjun Kim is a PhD candidate at Northwestern University.
 keywords: Machine learning, Audio, Human-Computer Interaction
 ---
 
-![profile_photo]({{ BASE_PATH }}/pages/files/bongjun_profile.jpg)
+<!-- ![profile_photo]({{ BASE_PATH }}/pages/files/bongjun_profile.jpg) -->
 
-### Bongjun Kim | 김봉준
+### Welcome!
 
 <p align="center">
   <img src="../pages/files/bongjun_profile.jpg" width="60%" height="60%">
   <br><br>
   <b><font size="5">Bongjun Kim | 김봉준</font></b><br>
   <br>
-  <br>
-  <font size="3">(interactive) Machine Learning | Audio Signal Processing | HCI </font>
+  <b><font size="3">(interactive) Machine Learning | Audio Signal Processing | HCI </font></b>
+  <br><br>
 </p>
 
 **Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northwestern University and working at Interactive Audio Lab. His current research interests include human-computer interaction, interactive machine learning, audio/music signal processing, and multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.**
