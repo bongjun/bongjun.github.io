@@ -35,6 +35,11 @@ p.center {
     text-align: center;
 }
 
+p {
+    font-size: 110%;
+    line-height: 150%;
+}
+
 table.wide {
     width: 100%;
 }
