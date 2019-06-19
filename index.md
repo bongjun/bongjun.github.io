@@ -35,6 +35,43 @@ Northwestern University <br>
 
 Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.northwestern.edu/) and working at [Interactive Audio Lab](http://music.cs.northwestern.edu/) with [Prof. Bryan Pardo](http://users.cs.northwestern.edu/~pardo/). His current research interests include **sound event detection**, **human-in-the-loop interfaces for audio annotation**, **interactive machine learning**, and **multimedia information retrieval**. He also enjoys working on a musical interface and interactive media art.
 
+<hr>
+
+### News
+
+***6/27/2019***:&nbsp;&nbsp; I am attending [Midwest Music and Audio Day 2019 (MMAD)](https://sites.google.com/iu.edu/mmad2019).
+
+***6/03/2019***:&nbsp;&nbsp; My paper, *"Self-supervised Attention Model for Weakly Labeled Audio Event Classification"* has been accepted from [EUSIPCO 2019](http://eusipco2019.org/)
+
+***5/11/2019***:&nbsp;&nbsp; I am presenting my work, *"Improving Content-based Audio Retrieval by Vocal Imitation Feedback"* at [ICASSP 2019](https://2019.ieeeicassp.org/) in Brighten, UK.
+
+***3/16/2019***:&nbsp;&nbsp; I am presenting my work, *"A Human-in-the-loop System for Sound Event Detection and Annotation"* at [IUI 2019](https://iui.acm.org/2019/) in Los Angeles, USA.
+
+***11/19/2018***:&nbsp; My sound classification model got **3rd** place (out of 23 systems competing) in [Making Sense of Sounds Data Challenge, 2018](https://cvssp.org/projects/making_sense_of_sounds/site/challenge/#results)
+
+***11/19/2018***:&nbsp;&nbsp; I am presenting my work, *"Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology"* at [DCASE 2018](http://dcase.community/workshop2018/) in Surrey, UK.
+
+<!-- <tr>
+<td width="75"><b>June, 19'</b></td>
+<td>My paper "Self-supervised Attention Model for Weakly Labeled Audio Event Classification" has been accepted from Eusipco2019.</td>
+</tr>
+ -->
+<!-- <tr>
+<td width="75"><b>Feb, 19'</b></td>
+<td>TAing <a href="https://courses.soe.ucsc.edu/courses/cmps11/Spring19/01" target="_blank">CMPS 11</a> in Spring, 2019</td>
+</tr>
+
+<tr>
+<td width="75"><b>Dec, 18'</b></td>
+<td>Beginning to work with  <a href="http://www.yliuu.com/" target="_blank">Prof. Yang Liu</a> from Winter, 2019</td>
+</tr>
+
+
+<tr>
+<td><b>Older</b></td>
+<td><a href='news-archive' target="_blank">Archive</a></td>
+</tr> -->
+
 <!-- <hr>
 ### Selected Works
 
