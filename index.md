@@ -7,9 +7,21 @@ keywords: Machine learning, Audio, Human-Computer Interaction
 
 <!-- ![profile_photo]({{ BASE_PATH }}/pages/files/bongjun_profile.jpg) -->
 
-### Welcome!
 
-<p align="center">
+## Bongjun Kim  <a href="/images/me2.jpeg" target="_blank"><img src="../pages/files/bongjun_profile.jpg" width="35%" height="35%" align="right"></a>
+Ph.D. Student, Computer Science <br>
+Northwestern University <br>
+
+<em>CV: </em><a href="https://bongjun.github.io/assets/CV.pdf" target="_blank">PDF</a>  <small>(June, 2019)</small> <br>
+<em>Email: </em><a href="mailto:bongjun@u.northwestern.edu">bongjun@u.northwestern.edu</a><br>
+**[Scholar](https://scholar.google.com/citations?user=s5RiD14AAAAJ&hl=en&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Bongjun_Kim3) | [Github](https://github.com/bongjun) | [Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/) | [twitter](https://twitter.com/iambongjun)**
+<br>
+<br>
+<hr width="900px">
+<!-- <hr style="height:3pt; visibility:hidden;" /> -->
+
+### About Me
+<!-- <p align="center">
   <img src="../pages/files/bongjun_profile.jpg" width="60%" height="60%">
   <br><br>
   <b><font size="5">Bongjun Kim | 김봉준</font></b><br>
@@ -17,14 +29,14 @@ keywords: Machine learning, Audio, Human-Computer Interaction
   <b><font size="3">(interactive) Machine Learning | Audio Signal Processing | HCI </font></b>
   <br><br>
 </p>
-
-Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northwestern University and working at Interactive Audio Lab. His current research interests include human-computer interaction, interactive machine learning, audio/music signal processing, and multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.
+ -->
+Bongjun Kim is a Ph.D. candidate in the Department of Computer Science at Northwestern University and working at Interactive Audio Lab. His current research interests include **human-computer interaction**, **interactive machine learning**, **audio/music signal processing**, and **multimedia information retrieval**. He also enjoys working on a musical interface and interactive media art.
 
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
  -->
-**[Scholar](https://scholar.google.com/citations?user=s5RiD14AAAAJ&hl=en&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Bongjun_Kim3) | [Github](https://github.com/bongjun) | [Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/) | [twitter](https://twitter.com/iambongjun)**
 
-**Contact: bongjun[at]u.northwestern.edu**
+
+<!-- **Contact: bongjun[at]u.northwestern.edu** -->
 
 ---
 
