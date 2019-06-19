@@ -13,13 +13,12 @@ Ph.D. Candidate, Computer Science <br>
 Northwestern University <br>
 
 <em>CV: </em><a href="https://bongjun.github.io/assets/CV.pdf" target="_blank">PDF</a>  <small>(June, 2019)</small> <br>
-<em>Email: </em><a href="mailto:bongjun@u.northwestern.edu">bongjun@u.northwestern.edu</a><br>
+<!-- <em>Email: </em><a href="mailto:bongjun@u.northwestern.edu">bongjun@u.northwestern.edu</a><br> -->
+<em>Email:</em> bongjun [at] u.northwestern.edu<br>
 **[Scholar](https://scholar.google.com/citations?user=s5RiD14AAAAJ&hl=en&oi=ao) | [ResearchGate](https://www.researchgate.net/profile/Bongjun_Kim3) | [Github](https://github.com/bongjun) | [Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/) | [twitter](https://twitter.com/iambongjun)**
 <br>
 <br>
-<hr width="900px">
-<!-- <hr style="height:3pt; visibility:hidden;" /> -->
-
+<hr>
 <!-- ### About Me -->
 <!-- <p align="center">
   <img src="../pages/files/bongjun_profile.jpg" width="60%" height="60%">
@@ -34,8 +33,12 @@ Northwestern University <br>
   <b><font size="3">(interactive) Machine Learning | Audio Signal Processing | HCI </font></b>
 </p>
 
-Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.northwestern.edu/) and working at [Interactive Audio Lab](http://music.cs.northwestern.edu/). His current research interests include **sound event detection**, **human-in-the-loop interfaces for audio annotation**, **interactive machine learning**, and **multimedia information retrieval**. He also enjoys working on a musical interface and interactive media art.
+Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https://www.mccormick.northwestern.edu/computer-science/) at [Northwestern University](https://www.northwestern.edu/) and working at [Interactive Audio Lab](http://music.cs.northwestern.edu/) with [Prof. Bryan Pardo](http://users.cs.northwestern.edu/~pardo/). His current research interests include **sound event detection**, **human-in-the-loop interfaces for audio annotation**, **interactive machine learning**, and **multimedia information retrieval**. He also enjoys working on a musical interface and interactive media art.
 
+<!-- <hr>
+### Selected Works
+
+To be updated -->
 <!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
  -->
 
