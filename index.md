@@ -39,7 +39,7 @@ Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https:/
 
 ### News
 
-***6/27/2019***:&nbsp;&nbsp; I am attending [Midwest Music and Audio Day 2019 (MMAD)](https://sites.google.com/iu.edu/mmad2019).
+***6/27/2019***:&nbsp;&nbsp; I am giving a talk about *"A Human-in-the-loop system for labeling sound events in audio recordings"* at [Midwest Music and Audio Day 2019 (MMAD)](https://sites.google.com/iu.edu/mmad2019) in Indiana Univesrity, Bloomington, USA.
 
 ***6/03/2019***:&nbsp;&nbsp; My paper, *"Self-supervised Attention Model for Weakly Labeled Audio Event Classification"* has been accepted from [EUSIPCO 2019](http://eusipco2019.org/)
 
