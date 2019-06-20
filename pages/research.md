@@ -4,8 +4,42 @@ title: Research
 description: Bongjun Kim's research
 ---
 
-### Self-supervised Attention Model for Weakly Labeled Audio Event Classification
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model. The weakly labeled framework is used to eliminate the need for expensive data labeling procedure and self-supervised attention is deployed to help a model distinguish between relevant and irrelevant parts of a weakly labeled audio clip in a more effective manner compared to prior attention models. We also propose a highly effective strongly supervised attention model when strong labels are available. This model also serves as an upper bound for the self-supervised model. The performances of the model with self-supervised attention training are comparable to the strongly supervised one which is trained using strong labels. We show that our self-supervised attention method is especially beneficial for short audio events.*
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Self-supervised Attention Model for Weakly Labeled Audio Event Classification](https://bongjun.github.io/pages/research.html)
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
+<br>
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Improving Content-based Audio Retrieval by Vocal Imitation Feedback](https://bongjun.github.io/pages/research.html)
+
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
+<br>
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology](https://bongjun.github.io/pages/research.html)
+
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
+<br>
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Lossy Audio Compression Identification](https://bongjun.github.io/pages/research.html)
+
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
+<br>
+<br>
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [A Human-in-the-loop System for Sound Event Detection and Annotation](https://bongjun.github.io/pages/research.html)
+
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
+<br>
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Speeding Learning of Personalized Audio Equalization](https://bongjun.github.io/pages/research.html)
+
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
+<!-- We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model. The weakly labeled framework is used to eliminate the need for expensive data labeling procedure and self-supervised attention is deployed to help a model distinguish between relevant and irrelevant parts of a weakly labeled audio clip in a more effective manner compared to prior attention models. We also propose a highly effective strongly supervised attention model when strong labels are available. This model also serves as an upper bound for the self-supervised model. The performances of the model with self-supervised attention training are comparable to the strongly supervised one which is trained using strong labels. We show that our self-supervised attention method is especially beneficial for short audio events.* -->
 
 <!-- [Read more]({{ BASE_PATH }}/pages/research.html)
  -->
