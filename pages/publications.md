@@ -51,7 +51,7 @@ description: Bongjun Kim's publications
 
 ### Posters & Workshop Papers
 
-### Patent
+### Patents
 * Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 20190122678, April 2019. [link]
 
 * Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 20190122673, April 2019. [link]
