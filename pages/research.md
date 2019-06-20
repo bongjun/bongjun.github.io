@@ -4,7 +4,7 @@ title: Research
 description: Bongjun Kim's research
 ---
 
-<a href="../pages/research.html"><img src="./files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Self-supervised Attention Model for Weakly Labeled Audio Event Classification](https://bongjun.github.io/pages/research.html)
 We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
 
