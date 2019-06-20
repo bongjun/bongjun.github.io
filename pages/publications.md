@@ -23,8 +23,6 @@ description: Bongjun Kim's publications
 
 * [pdf] Bongjun Kim and Bryan Pardo, "I-SED: an Interactive Sound Event Detector," ACM International Conference on Intelligent User Interface (IUI), Limassol, Cyprus, Mar. 2017
 
-* Bongjun Kim and Bryan Pardo, "Interface Design for Interactive Sound Event Detection," Workshop on Awareness Interface and Interaction (AWARE) at the ACM International Conference on Intelligent User Interface, Limassol, Cyprus, Mar. 2017
-
 * [pdf] Bongjun Kim and Bryan Pardo, "Speeding Learning of Personalized Audio Equalization," International Conference on Machine Learning and Applications, Detroit, USA, Dec. 2014
 
 * [pdf] Bongjun Kim and Bryan Pardo, "Adapting Collaborative Filtering to Personalized Audio Production," AAAI Conference on Human Computation and Crowdsourcing, Pittsburgh, USA, Oct. 2014
@@ -49,14 +47,13 @@ description: Bongjun Kim's publications
 
 * [link] Minkoo Kang, Kiejin Park, and Bongjun Kim, “Determining the Size of a Static Segment and Analyzing the Utilization of In-vehicle FlexRay Network,” Third International Conference on Convergence and Hybrid Information Technology, Vol. 2, pp.50-53, Nov. 2008.
 
-### Posters & Workshop Papers
 
 ### Patents
 * Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 20190122678, April 2019. [link]
 
 * Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 20190122673, April 2019. [link]
 
-### Tech Reports
+### Technical Reports
 
 
 ### Talks & Lectures
