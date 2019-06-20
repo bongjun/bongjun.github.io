@@ -4,8 +4,9 @@ title: Publications
 description: Bongjun Kim's publications
 ---
 
-* Bongjun Kim and Shabnam Ghaffarzadegan, "Self-supervised Attention Model for Weakly Labeled Audio Event Classification," European Signal Processing Conference (EUSIPCO), 2019 (Accepted).
+### Conference & Journal Papers
 
+* Bongjun Kim and Shabnam Ghaffarzadegan, "Self-supervised Attention Model for Weakly Labeled Audio Event Classification," European Signal Processing Conference (EUSIPCO), 2019 (Accepted).
 
 * [pdf] Bongjun Kim and Bryan Pardo, "Improving Content-based Audio Retrieval by Vocal Imitation Feedback," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
@@ -47,3 +48,17 @@ description: Bongjun Kim's publications
 * [link] Minkoo Kang, Kiejin Park, and Bongjun Kim, “PDO Packing Mechanism for Minimizing CANopen Network Utilization,”The 34th Annual Conference of the IEEE Industrial Electronics Society, pp.1516-1519, Nov. 2008.
 
 * [link] Minkoo Kang, Kiejin Park, and Bongjun Kim, “Determining the Size of a Static Segment and Analyzing the Utilization of In-vehicle FlexRay Network,” Third International Conference on Convergence and Hybrid Information Technology, Vol. 2, pp.50-53, Nov. 2008.
+
+### Posters & Workshop Papers
+
+### Patent
+* Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 20190122678, April 2019. [link]
+
+* Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 20190122673, April 2019. [link]
+
+### Tech Reports
+
+
+### Talks & Lectures
+
+
