@@ -33,8 +33,8 @@ We can identify the lossy audio compression formats (e.g., WMA, MP3, AAC etc) on
 
 <br>
 <br>
-<a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
-#### [A Human-in-the-loop System for Sound Event Detection and Annotation](https://bongjun.github.io/pages/research.html)
+<a href="../pages/projects/socialeq.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [A Human-in-the-loop System for Sound Event Detection and Annotation](../pages/projects/socialeq.html)
 
 The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording.<br><br>
 
