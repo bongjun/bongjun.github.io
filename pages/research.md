@@ -69,8 +69,8 @@ I.M.Hear is a tabletop interface that uses mobile devices as UI components. Posi
 **Turning Into Sound** is an interactive multimedia installation. People can make music by drawing on a white board with three color pens.<br><br><br>
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/dont_imagine.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
-#### [Dance performance with mobile phone-Don't Imagine]({{ BASE_PATH }}/pages/projects/dont_imagine.html)
+<a href="../pages/projects/dont_imagine.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Dance performance with mobile phone-Don't Imagine](../pages/projects/dont_imagine.html)
 
 **Don't Imagine** is  a new media dance performance. I participated as a multimedia engineer to develop mobile-phone based interactive music controllers for dancers.
 
