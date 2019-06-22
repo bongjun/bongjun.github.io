@@ -4,40 +4,75 @@ title: Research
 description: Bongjun Kim's research
 ---
 
+Currently, I am working on an interactive intelligent interface and AI for sound. Specifically, I am interested in how to reduce human annotation effort for both manual sound event annotation and building automated sound event detection systems. In the past, I have worked on musical interfaces, computer-generated music, and interactive media art. 
+
+<hr>
+
 <a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Self-supervised Attention Model for Weakly Labeled Audio Event Classification](https://bongjun.github.io/pages/research.html)
 We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+
 
 <br>
 <a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Improving Content-based Audio Retrieval by Vocal Imitation Feedback](https://bongjun.github.io/pages/research.html)
 
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+You can improve audio search results just by imitating sound events you do or do *not* want in the search result.<br><br>
 
 <br>
 <a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology](https://bongjun.github.io/pages/research.html)
 
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+The largest publicly-available datset of vocal imitations as well as the first to adopt the widely-used AudioSet ontology for a vocal imitation dataset.
 
 <br>
 <a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Lossy Audio Compression Identification](https://bongjun.github.io/pages/research.html)
 
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+We can identify the lossy audio compression formats (e.g., WMA, MP3, AAC etc) only by analying a compressed audio signal without any metadata 
 
 <br>
 <br>
 <a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [A Human-in-the-loop System for Sound Event Detection and Annotation](https://bongjun.github.io/pages/research.html)
 
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording.<br><br>
 
 <br>
 <a href="../pages/research.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Speeding Learning of Personalized Audio Equalization](https://bongjun.github.io/pages/research.html)
 
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+Just rate how much you like audio examples provided by the machine. It will give you the equalization curve of your sound contept.
+
+<br>
+<a href="../pages/projects/markov.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Probabilistic Prediction of Rhythmic Characteristics in Markov Chain-based Melodic Sequences](../pages/projects/markov.html)
+
+A Markov Chain-based interactive improvisation system which allows a user to control the level of syncopation and rhythmic tension in real-time.
+
+<br>
+<a href="../pages/projects/iam_hear.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [I.M.Hear](../pages/projects/iam_hear.html)
+
+I.M.Hear is a tabletop interface that uses mobile devices as UI components. Position of each mobile device on the table is tracked down in real time only using acoustic signals in "theoretically audible, but practically inaudible range.
+
+<br>
+<a href="../pages/projects/ways.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Where Are You Standing?](../pages/projects/ways.html)
+
+**Where Are You Standing?** is an interactive, collaborative mobile music piece using smartphones' digital compass.<br><br><br>
+
+<br>
+<a href="../pages/projects/turning_into_sound.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Turning Into Sound](../pages/projects/turning_into_sound.html)
+
+**Turning Into Sound** is an interactive multimedia installation. People can make music by drawing on a white board with three color pens.<br><br><br>
+
+<br>
+<a href="../pages/projects/dont_imagine.html"><img src="../pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Dance performance with mobile phone-Don't Imagine](../pages/projects/dont_imagine.html)
+
+**Don't Imagine** is  a new media dance performance. I participated as a multimedia engineer to develop mobile-phone based interactive music controllers for dancers.
 
 <!-- We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model. The weakly labeled framework is used to eliminate the need for expensive data labeling procedure and self-supervised attention is deployed to help a model distinguish between relevant and irrelevant parts of a weakly labeled audio clip in a more effective manner compared to prior attention models. We also propose a highly effective strongly supervised attention model when strong labels are available. This model also serves as an upper bound for the self-supervised model. The performances of the model with self-supervised attention training are comparable to the strongly supervised one which is trained using strong labels. We show that our self-supervised attention method is especially beneficial for short audio events.* -->
 
