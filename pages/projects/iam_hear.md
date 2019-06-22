@@ -22,4 +22,7 @@ I participated in this project as a sound designer. Surrounding sounds, such as 
 <iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/clW7ftPLLtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Related papers
+* Seunghun Kim, Bongjun Kim, and Woon Seung Yeo, “IAMHear: A Tabletop Interface with Smart Mobile Devices using Acoustic Location,” Conference on Human Factors in Computing Systems (CHI) works in progress, Apr. 2013.
+
 <br>
