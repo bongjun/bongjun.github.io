@@ -26,50 +26,50 @@ You can improve audio search results just by imitating sound events you do or do
 The largest publicly-available datset of vocal imitations as well as the first to adopt the widely-used AudioSet ontology for a vocal imitation dataset.
 
 <br>
-<a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/lossy_compression_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Lossy Audio Compression Identification]({{ BASE_PATH }}/pages/research.html)
 
 We can identify the lossy audio compression formats (e.g., WMA, MP3, AAC etc) only by analying a compressed audio signal without any metadata 
 
 <br>
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/ised.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/ised.html"><img src="{{ BASE_PATH }}/pages/files/ised_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [A Human-in-the-loop System for Sound Event Detection and Annotation]({{ BASE_PATH }}/pages/projects/ised.html)
 
 The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording.<br><br>
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/socialeq.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/socialeq.html"><img src="{{ BASE_PATH }}/pages/files/socialeq_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Speeding Learning of Personalized Audio Equalization]({{ BASE_PATH }}/pages/projects/socialeq.html)
 
 Just rate how much you like audio examples provided by the machine. It will give you the equalization curve of your sound contept.
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/markov.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/markov.html"><img src="{{ BASE_PATH }}/pages/files/MC_improviosr_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Probabilistic Prediction of Rhythmic Characteristics in Markov Chain-based Melodic Sequences]({{ BASE_PATH }}/pages/projects/markov.html)
 
 A Markov Chain-based interactive improvisation system which allows a user to control the level of syncopation and rhythmic tension in real-time.
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/iam_hear.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/iam_hear.html"><img src="{{ BASE_PATH }}/pages/files/iamhear_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [I.M.Hear]({{ BASE_PATH }}/pages/projects/iam_hear.html)
 
 I.M.Hear is a tabletop interface that uses mobile devices as UI components. Position of each mobile device on the table is tracked down in real time only using acoustic signals in "theoretically audible, but practically inaudible range.
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/ways.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/ways.html"><img src="{{ BASE_PATH }}/pages/files/WAYS_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Where Are You Standing?]({{ BASE_PATH }}/pages/projects/ways.html)
 
 **Where Are You Standing?** is an interactive, collaborative mobile music piece using smartphones' digital compass.<br><br><br>
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/turning_into_sound.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/turning_into_sound.html"><img src="{{ BASE_PATH }}/pages/files/turningIntoSound_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Turning Into Sound]({{ BASE_PATH }}/pages/projects/turning_into_sound.html)
 
 **Turning Into Sound** is an interactive multimedia installation. People can make music by drawing on a white board with three color pens.<br><br><br>
 
 <br>
-<a href="{{ BASE_PATH }}/pages/projects/dont_imagine.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/projects/dont_imagine.html"><img src="{{ BASE_PATH }}/pages/files/dont_imagine_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Dance performance with mobile phone-Don't Imagine]({{ BASE_PATH }}/pages/projects/dont_imagine.html)
 
 **Don't Imagine** is  a new media dance performance. I participated as a multimedia engineer to develop mobile-phone based interactive music controllers for dancers.
