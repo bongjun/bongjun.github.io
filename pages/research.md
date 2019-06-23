@@ -14,13 +14,13 @@ We describe a novel weakly labeled Audio Event Classification approach based on 
 
 
 <br>
-<a href="{{ BASE_PATH }}./pages/research.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}./pages/research.html"><img src="{{ BASE_PATH }}/pages/files/imitation_feedback_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Improving Content-based Audio Retrieval by Vocal Imitation Feedback](https://bongjun.github.io/pages/research.html)
 
 You can improve audio search results just by imitating sound events you do or do *not* want in the search result.<br><br>
 
 <br>
-<a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+<a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/imitationset_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology]({{ BASE_PATH }}/pages/research.html)
 
 The largest publicly-available datset of vocal imitations as well as the first to adopt the widely-used AudioSet ontology for a vocal imitation dataset.
