@@ -47,7 +47,7 @@ Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https:/
 
 ***5/11/2019***:&nbsp;&nbsp; I am presenting my work, *"Improving Content-based Audio Retrieval by Vocal Imitation Feedback"* at [ICASSP 2019](https://2019.ieeeicassp.org/) in Brighten, UK.
 
-***3/16/2019***:&nbsp;&nbsp; I am presenting my work, *"A Human-in-the-loop System for Sound Event Detection and Annotation"* at [IUI 2019](https://iui.acm.org/2019/) in Los Angeles, USA.
+***3/16/2019***:&nbsp;&nbsp; I am giving a talk about my work, *"A Human-in-the-loop System for Sound Event Detection and Annotation"* at [IUI 2019](https://iui.acm.org/2019/) in Los Angeles, USA.
 
 ***11/19/2018***:&nbsp; My sound classification model got **3rd** place (out of 23 systems competing) in [Making Sense of Sounds Data Challenge, 2018](https://cvssp.org/projects/making_sense_of_sounds/site/challenge/#results)
 
