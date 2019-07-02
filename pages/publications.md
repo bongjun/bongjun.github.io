@@ -54,8 +54,11 @@ description: Bongjun Kim's publications
 * [[link]](http://www.freepatentsonline.com/y2019/0122673.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 20190122673, April 2019.
 
 ### Technical Reports
+* [[pdf]]({{ BASE_PATH }}/pages/files/papers/dcase19_task5.pdf) **Bongjun Kim**, "Convolutional Neural networks with Transfer Learning for Urban Sound Tagging," Detection and Classification of Acoustic Scenes and Events (DCASE) challenge 2019, Task5. (==> Placed **3rd** out of 22 systems competing and **2nd** in team rankings: Check the [Leaderboard](http://dcase.community/challenge2019/task-urban-sound-tagging-results))
+
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/making_sense_of_data.pdf) **Bongjun Kim**, "Ensemble of Convolutional Neural Networks with Transfer Learning for Audio Classification," Making Sense of Sounds Data Challenge 2018. (==> Placed 3rd out of 23 systems competing: Check the [Leaderboard](https://cvssp.org/projects/making_sense_of_sounds/site/challenge/#results))
 
+<hr>
 <!-- 
 ### Talks & Lectures
 * [[slide]]() Bongjun kim, "Collaborative filtering," EECS 352: Machine Learning, Northwestern University, 2018.
