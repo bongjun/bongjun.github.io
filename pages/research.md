@@ -8,6 +8,12 @@ Currently, I am working on an interactive intelligent interface and AI for sound
 
 <hr>
 
+<a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/point_labels.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
+#### [Sound Event Detection using Point-labeled Data](https://bongjun.github.io/pages/research.html)
+
+Collecting point labels takes less human time than strong labels. A SED model trained on point labeled audio data is comparable to a model trained on strongly labeled data. (To be presented at [WASPAA2019](https://www.waspaa.com/)) <br><br>
+
+<br>
 <a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Self-supervised Attention Model for Weakly Labeled Audio Event Classification](https://bongjun.github.io/pages/research.html)
 We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model. [[paper]]({{ BASE_PATH }}/pages/files/papers/eusipco19_BK.pdf)
