@@ -10,7 +10,7 @@ Currently, I am working on an interactive intelligent interface and AI for sound
 
 <a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Self-supervised Attention Model for Weakly Labeled Audio Event Classification](https://bongjun.github.io/pages/research.html)
-We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model.
+We describe a novel weakly labeled Audio Event Classification approach based on a self-supervised attention model. [[paper]]({{ BASE_PATH }}/pages/files/papers/eusipco19_BK.pdf)
 
 
 <br>
