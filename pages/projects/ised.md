@@ -11,7 +11,7 @@ description: Interactive Sound Event Detector
 
 
 ### Related papers:
-* Bongjun Kim and Bryan Pardo, "A Human-in-the-loop System for Sound Event Detection and Annotation," ACM Transaction on Interactive Intelligent System (TiiS), Vol. 8, Issue 2, Article 13, July 2018.
+* [[pdf]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018.pdf) Bongjun Kim and Bryan Pardo, "A Human-in-the-loop System for Sound Event Detection and Annotation," ACM Transaction on Interactive Intelligent System (TiiS), Vol. 8, Issue 2, Article 13, July 2018.
 
 * Bongjun Kim, "Leveraging User Input and Feedback for Interactive Sound Event Detection and Annotation," Doctoral Consortium, ACM International Conference on Intelligent User Interfaces (IUI) 2018
 
