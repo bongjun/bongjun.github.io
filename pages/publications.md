@@ -6,9 +6,9 @@ description: Bongjun Kim's publications
 
 ### Conference & Journal Papers
 
-* **Bongjun Kim** and Bryan Pardo, "Sound Event Detection Using Point-labeled Data," IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2019 (Accepted).
+* [[pdf]]({{ BASE_PATH }}/pages/files/papers/waspaa_2019_kim.pdf) **Bongjun Kim** and Bryan Pardo, "Sound Event Detection Using Point-labeled Data," IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2019.
 
-* [[pdf]]({{ BASE_PATH }}/pages/files/papers/eusipco19_BK.pdf) **Bongjun Kim** and Shabnam Ghaffarzadegan, "Self-supervised Attention Model for Weakly Labeled Audio Event Classification," European Signal Processing Conference (EUSIPCO), 2019 (Accepted).
+* [[pdf]]({{ BASE_PATH }}/pages/files/papers/eusipco19_BK.pdf) **Bongjun Kim** and Shabnam Ghaffarzadegan, "Self-supervised Attention Model for Weakly Labeled Audio Event Classification," European Signal Processing Conference (EUSIPCO), 2019.
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/icassp19_Kim.pdf) **Bongjun Kim** and Bryan Pardo, "Improving Content-based Audio Retrieval by Vocal Imitation Feedback," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
