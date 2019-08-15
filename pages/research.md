@@ -44,7 +44,7 @@ The largest publicly-available datset of vocal imitations as well as the first t
 <a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/lossy_compression_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Lossy Audio Compression Identification]({{ BASE_PATH }}/pages/research.html)
 
-We can identify the lossy audio compression formats (e.g., WMA, MP3, AAC etc) only by analying a compressed audio signal without any metadata 
+We can identify the lossy audio compression formats (e.g., WMA, MP3, AAC etc) only by analying a compressed audio signal without any metadata. [[paper]]({{ BASE_PATH }}/pages/files/papers/Kim-Rafii_eusipco2018.pdf) 
 
 <br>
 
