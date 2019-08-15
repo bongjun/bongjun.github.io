@@ -11,7 +11,7 @@ Currently, I am working on an interactive intelligent interface and AI for sound
 <a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/point_labels.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [Sound Event Detection using Point-labeled Data](https://bongjun.github.io/pages/research.html)
 
-Collecting point labels takes less human time than strong labels. A SED model trained on point labeled audio data is comparable to a model trained on strongly labeled data. (To be presented at [WASPAA2019](https://www.waspaa.com/)) <br>
+Collecting point labels takes less human time than strong labels. A SED model trained on point labeled audio data is comparable to a model trained on strongly labeled data. [[paper]]({{ BASE_PATH }}/pages/files/papers/waspaa_2019_kim.pdf)<br>
 
 <br>
 <a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/eusipco19.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
