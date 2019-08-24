@@ -12,7 +12,7 @@ keywords: Machine learning, Audio, Human-Computer Interaction
 Ph.D. Candidate, Computer Science <br>
 Northwestern University <br>
 
-<em>CV: </em><a href="{{ BASE_PATH }}/pages/files/BK_CV.pdf" target="_blank">PDF</a>  <small>(July, 2019)</small> <br>
+<em>CV: </em><a href="{{ BASE_PATH }}/pages/files/BK_CV.pdf" target="_blank">PDF</a>  <small>(August, 2019)</small> <br>
 <!-- <em>Email: </em><a href="mailto:bongjun@u.northwestern.edu">bongjun@u.northwestern.edu</a><br> -->
 <em>Email:</em> bongjun [at] u.northwestern.edu<br>
 **[Scholar](https://scholar.google.com/citations?hl=en&user=s5RiD14AAAAJ&view_op=list_works&sortby=pubdate) | [ResearchGate](https://www.researchgate.net/profile/Bongjun_Kim3) | [Github](https://github.com/bongjun) | [Linkedin](https://www.linkedin.com/in/bongjun-kim-3594334b/) | [twitter](https://twitter.com/iambongjun)**
