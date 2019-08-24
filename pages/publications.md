@@ -6,6 +6,8 @@ description: Bongjun Kim's publications
 
 ### Conference & Journal Papers
 
+* Fatemeh Pishdadian, **Bongjun Kim**, Prem Seetharaman, and Bryan Pardo, "Classifying non-speech vocals: Deep vs Signal Processing Representations," the Detection and Classification of Acoustic Scenes and Events 2019 Workshop (DCASE) 2019. (Accepted)
+
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/waspaa_2019_kim.pdf) **Bongjun Kim** and Bryan Pardo, "Sound Event Detection Using Point-labeled Data," IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2019.
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/eusipco19_BK.pdf) **Bongjun Kim** and Shabnam Ghaffarzadegan, "Self-supervised Attention Model for Weakly Labeled Audio Event Classification," European Signal Processing Conference (EUSIPCO), 2019.
