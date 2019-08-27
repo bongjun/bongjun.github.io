@@ -6,7 +6,9 @@ description: Bongjun Kim's publications
 
 ### Conference & Journal Papers
 
-* Fatemeh Pishdadian, **Bongjun Kim**, Prem Seetharaman, and Bryan Pardo, "Classifying non-speech vocals: Deep vs Signal Processing Representations," the Detection and Classification of Acoustic Scenes and Events 2019 Workshop (DCASE) 2019. (Accepted)
+* Bryan Pardo, Mark Cartwright, Prem Seetharaman, and **Bongjun Kim**, "Learning to Build Natural Audio Production Interfaces," Arts, accepted for publication, 2019.
+
+* Fatemeh Pishdadian, **Bongjun Kim**, Prem Seetharaman, and Bryan Pardo, "Classifying non-speech vocals: Deep vs Signal Processing Representations," Workshop on Detection and Classification of Acoustic Scenes and Events Workshop (DCASE) 2019.
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/waspaa_2019_kim.pdf) **Bongjun Kim** and Bryan Pardo, "Sound Event Detection Using Point-labeled Data," IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2019.
 
@@ -14,7 +16,7 @@ description: Bongjun Kim's publications
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/icassp19_Kim.pdf) **Bongjun Kim** and Bryan Pardo, "Improving Content-based Audio Retrieval by Vocal Imitation Feedback," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Brighton, UK, May 2019.
 
-* [[pdf]]({{ BASE_PATH }}/pages/files/papers/DCASE2018Workshop_Kim_135.pdf) **Bongjun Kim**, Madhav Ghei, Bryan Pardo, and Zhiyao Duan, "Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology," Proceedings of the Detection and Classification of Acoustic Scenes and Events 2018 Workshop (DCASE2018), Surrey, UK, Nov. 2018.
+* [[pdf]]({{ BASE_PATH }}/pages/files/papers/DCASE2018Workshop_Kim_135.pdf) **Bongjun Kim**, Madhav Ghei, Bryan Pardo, and Zhiyao Duan, "Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology," Workshop on Detection and Classification of Acoustic Scenes and Events Workshop (DCASE), Surrey, UK, Nov. 2018.
 
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/Kim-Rafii_eusipco2018.pdf) **Bongjun Kim** and Zafar Rafii, "Lossy Audio Compression Identification," European Signal Processing Conference (EUSIPCO), Rome, Italy, Sept. 2018.
