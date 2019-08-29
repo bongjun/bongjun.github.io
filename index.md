@@ -40,6 +40,8 @@ Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https:/
 ### News
 ***8/24/2019***:&nbsp;&nbsp; My co-authored paper, *"Classifying non-speech vocals: Deep vs Signal Processing Representations"* has been accepted from [DCASE 2019](http://dcase.community/workshop2019/)
 
+***8/20/2019***:&nbsp;&nbsp; My co-authored journal paper, *"Learning to Build Natural Audio Production Interfaces"* has been accepted from [Arts](https://www.mdpi.com/journal/arts)
+
 ***7/15/2019***:&nbsp;&nbsp; My paper, *"Sound Event Detection Using Point-labeled Data"* has been accepted from [WASPAA 2019](https://www.waspaa.com/)
 
 ***7/01/2019***:&nbsp; My DCASE submission (task 5) got **3rd** place out of 22 systems competing. (**2nd** in team rankings). Read more about the challenge and the results: [click](http://dcase.community/challenge2019/task-urban-sound-tagging-results).
