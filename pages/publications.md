@@ -6,7 +6,7 @@ description: Bongjun Kim's publications
 
 ### Conference & Journal Papers
 
-* Bryan Pardo, Mark Cartwright, Prem Seetharaman, and **Bongjun Kim**, "Learning to Build Natural Audio Production Interfaces," *Arts*, accepted for publication, 2019.
+* [[link]](https://www.mdpi.com/2076-0752/8/3/110/htm) Bryan Pardo, Mark Cartwright, Prem Seetharaman, and **Bongjun Kim**, "Learning to Build Natural Audio Production Interfaces," *Arts*, Vol. 8, Issue 3, 2019.
 
 * Fatemeh Pishdadian, **Bongjun Kim**, Prem Seetharaman, and Bryan Pardo, "Classifying non-speech vocals: Deep vs Signal Processing Representations," *Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)* 2019.
 
@@ -23,7 +23,6 @@ description: Bongjun Kim's publications
 
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018.pdf) **Bongjun Kim** and Bryan Pardo, "A Human-in-the-loop System for Sound Event Detection and Annotation," *ACM Transaction on Interactive Intelligent System (TiiS)*, Vol. 8, Issue 2, Article 13, July 2018.
-
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/kim_iui_2018.pdf) **Bongjun Kim**, "Leveraging User Input and Feedback for Interactive Sound Event Detection and Annotation," Doctoral Consortium, *ACM International Conference on Intelligent User Interfaces (IUI)* 2018
 
