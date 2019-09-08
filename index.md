@@ -38,6 +38,8 @@ Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https:/
 <hr>
 
 ### News
+***9/4/2019***:&nbsp;&nbsp; I gave a talk about my work, *"Self-supervised Attention Model for Weakly Labeled Audio Event Classification"* at [EUSIPCO 2019](http://eusipco2019.org/) in A Coruña, Spain.
+
 ***8/29/2019***:&nbsp;&nbsp; My co-authored journal paper, *"Learning to Build Natural Audio Production Interfaces"* got published in [Arts](https://www.mdpi.com/2076-0752/8/3/110/htm)
 
 ***8/24/2019***:&nbsp;&nbsp; My co-authored paper, *"Classifying non-speech vocals: Deep vs Signal Processing Representations"* has been accepted from [DCASE 2019](http://dcase.community/workshop2019/)
