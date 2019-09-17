@@ -8,7 +8,7 @@ description: Bongjun Kim's publications
 
 * [[link]](https://www.mdpi.com/2076-0752/8/3/110/htm) Bryan Pardo, Mark Cartwright, Prem Seetharaman, and **Bongjun Kim**, "Learning to Build Natural Audio Production Interfaces," *Arts*, Vol. 8, Issue 3, 2019.
 
-* Fatemeh Pishdadian, **Bongjun Kim**, Prem Seetharaman, and Bryan Pardo, "Classifying non-speech vocals: Deep vs Signal Processing Representations," *Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)* 2019.
+* [[pdf]]({{ BASE_PATH }}/pages/files/papers/DCASE_workshop_2019_Fatemeh.pdf) Fatemeh Pishdadian, **Bongjun Kim**, Prem Seetharaman, and Bryan Pardo, "Classifying non-speech vocals: Deep vs Signal Processing Representations," *Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)* 2019.
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/waspaa_2019_kim.pdf) **Bongjun Kim** and Bryan Pardo, "Sound Event Detection Using Point-labeled Data," *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)* 2019.
 
