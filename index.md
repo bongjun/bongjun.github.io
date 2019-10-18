@@ -38,6 +38,8 @@ Bongjun Kim is a Ph.D. candidate in [the Department of Computer Science](https:/
 <hr>
 
 ### News
+***10/20/2019***:&nbsp;&nbsp; I am attending the full week of audio events: [WASPAA](https://www.waspaa.com/), [SANE](http://www.saneworkshop.org/sane2019/), and [DCASE](http://dcase.community/workshop2019/) in New York. I am giving a talk at WASPAA and a poster presentation at SANE. Here is my paper to present: [pdf](https://www.bongjunkim.com/pages/files/papers/waspaa_2019_kim.pdf)
+
 ***9/4/2019***:&nbsp;&nbsp; I gave a talk about my work, *"Self-supervised Attention Model for Weakly Labeled Audio Event Classification"* at [EUSIPCO 2019](http://eusipco2019.org/) in A Coruña, Spain.
 
 ***8/29/2019***:&nbsp;&nbsp; My co-authored journal paper, *"Learning to Build Natural Audio Production Interfaces"* got published in [Arts](https://www.mdpi.com/2076-0752/8/3/110/htm)
