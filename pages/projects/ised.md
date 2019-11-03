@@ -3,12 +3,13 @@ layout: page
 title: I-SED
 description: Interactive Sound Event Detector
 ---
+### Interactive Sound Event Detector (I-SED)
+I-SED is a human-in-the-loop interface for sound event annotation that helps users label sound events of interest within a lenghty recording quickly. The annotation is performed by a collaboration between a user and a machine. The system leverages machine learning's ability to learn from human-provided examples not to replace a human annotator, but to speed up human annotator.
 
 ### Demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss2eGSW4_4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Demo Interface: [Click here! >>I-SED](http://54.68.168.116/)
-
 
 ### Related papers:
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018.pdf) Bongjun Kim and Bryan Pardo, "A Human-in-the-loop System for Sound Event Detection and Annotation," ACM Transaction on Interactive Intelligent System (TiiS), Vol. 8, Issue 2, Article 13, July 2018.
