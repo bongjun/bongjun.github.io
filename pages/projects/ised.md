@@ -9,7 +9,7 @@ I-SED is a human-in-the-loop interface for sound event annotation that helps use
 ### Demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss2eGSW4_4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Try the demo interface: [Click here! >>I-SED](http://54.68.168.116/)
+### Try the demo interface: [<ins>Click here! >>I-SED</ins>](http://54.68.168.116/)
 
 ### Talk (IUI 2019)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wuUxtl-iqQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
