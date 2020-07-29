@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Bongjun Kim
-description: Bongjun Kim is a Ph.D. candidate at Northwestern University. 
+description: Bongjun Kim 
 keywords: Machine learning, Audio, Human-Computer Interaction
 ---
 
@@ -9,7 +9,7 @@ keywords: Machine learning, Audio, Human-Computer Interaction
 
 
 ## Bongjun Kim  <a href="/images/me2.jpeg" target="_blank"><img src="../pages/files/bongjun_profile.jpg" width="35%" height="35%" align="right"></a>
-Ph.D. Candidate, Computer Science <br>
+Ph.D in Computer Science <br>
 Northwestern University <br>
 
 <em>CV: </em><a href="{{ BASE_PATH }}/pages/files/BK_CV.pdf" target="_blank">PDF</a>  <small>(April, 2020)</small> <br>
