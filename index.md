@@ -33,7 +33,7 @@ Ph.D in Computer Science <br>
   <b><font size="3">(interactive) Machine Learning | Audio Signal Processing | HCI </font></b>
 </p>
 
-Bongjun Kim is currently data scinetist at 3M AI Lab. He completed his PhD in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) as a member of the [Interactive Audio Lab](https://interactiveaudiolab.github.io/) (Advisor: [Bryan Pardo](https://interactiveaudiolab.github.io/people-current/1_bryan-pardo.html)). His research interests inlucde machine learning, audio signal processing (e.g., sound event recognition), intelligent interactive user system, multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.
+Bongjun Kim is currently data scientist at 3M AI Lab. He completed his PhD in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) as a member of the [Interactive Audio Lab](https://interactiveaudiolab.github.io/) (Advisor: [Bryan Pardo](https://interactiveaudiolab.github.io/people-current/1_bryan-pardo.html)). His research interests inlucde machine learning, audio signal processing (e.g., sound event recognition), intelligent interactive user system, multimedia information retrieval. He also enjoys working on a musical interface and interactive media art.
 <hr>
 
 ### News
