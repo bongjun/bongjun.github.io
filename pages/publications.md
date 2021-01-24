@@ -18,9 +18,7 @@ description: Bongjun Kim's publications
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/DCASE2018Workshop_Kim_135.pdf) **Bongjun Kim**, Madhav Ghei, Bryan Pardo, and Zhiyao Duan, "Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology," *Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)*, Surrey, UK, Nov. 2018.
 
-
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/Kim-Rafii_eusipco2018.pdf) **Bongjun Kim** and Zafar Rafii, "Lossy Audio Compression Identification," *European Signal Processing Conference (EUSIPCO)*, Rome, Italy, Sept. 2018.
-
 
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018.pdf) **Bongjun Kim** and Bryan Pardo, "A Human-in-the-loop System for Sound Event Detection and Annotation," *ACM Transaction on Interactive Intelligent System (TiiS)*, Vol. 8, Issue 2, Article 13, July 2018.
 
