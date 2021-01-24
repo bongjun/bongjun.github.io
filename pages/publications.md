@@ -52,6 +52,8 @@ description: Bongjun Kim's publications
 
 * [[link]](http://ieeexplore.ieee.org/document/4682212/) Minkoo Kang, Kiejin Park, and **Bongjun Kim**, “Determining the Size of a Static Segment and Analyzing the Utilization of In-vehicle FlexRay Network,” *Third International Conference on Convergence and Hybrid Information Technology*, Vol. 2, pp.50-53, Nov. 2008.
 
+### Thesis
+[[pdf]]({{ BASE_PATH }}/pages/files/papers/bongjun_kim_thesis.pdf) **Bongjun Kim**, “Sound Event Annotation and Detection with Less Human Effort,” PhD thesis, Northwestern University, Evanston, IL, USA, 2020.
 
 ### Patents
 * [[link]](http://www.freepatentsonline.com/y2019/0122678.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 20190122678, April 2019.
