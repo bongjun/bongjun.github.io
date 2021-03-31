@@ -40,7 +40,7 @@ My research interests inlucde machine learning, audio signal processing (e.g., s
 
 ### News
 
-***3/30/2021***:&nbsp;&nbsp; I was invited to **Conversations on Applied AI Podcast** and talked about my research on AI and audio. The episode is up now: [link](https://appliedai.buzzsprout.com/1101152/8222571-bongjun-kim-sound-recognition-and-audio-signal-processing-with-machine-learning)
+***3/30/2021***:&nbsp;&nbsp; I was invited to *Conversations on Applied AI Podcast* and talked about my research on AI and audio. The episode is up now: [link](https://appliedai.buzzsprout.com/1101152/8222571-bongjun-kim-sound-recognition-and-audio-signal-processing-with-machine-learning)
 
 ***12/03/2020***:&nbsp;&nbsp; I gave a talk about my PhD research at [AppliedAI meetup](https://www.meetup.com/applied_ai/events/271900276/) ([YouTube video](https://youtu.be/kUNB2B4kn10))
 
