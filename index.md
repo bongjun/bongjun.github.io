@@ -39,6 +39,13 @@ My research interests inlucde machine learning, audio signal processing (e.g., s
 <hr>
 
 ### News
+
+***3/30/2021***:&nbsp;&nbsp; I was invited to **Conversations on Applied AI Podcast** and talked about my research on AI and audio. The episode is up now: [link](https://appliedai.buzzsprout.com/1101152/8222571-bongjun-kim-sound-recognition-and-audio-signal-processing-with-machine-learning)
+
+***12/03/2020***:&nbsp;&nbsp; I gave a talk about my PhD research at [AppliedAI meetup](https://www.meetup.com/applied_ai/events/271900276/) ([YouTube video](https://youtu.be/kUNB2B4kn10))
+
+***04/28/2020***:&nbsp;&nbsp; I've succefully defended my PhD disseration (Title: Sound Event Annotation and Detection with Less Human Effort)
+
 ***04/14/2020***:&nbsp;&nbsp; I've released an audio embedding model, *M-VGGish* which was used in my recent works: [Link](https://github.com/bongjun/M-VGGish)
 
 ***10/20/2019***:&nbsp;&nbsp; I am attending the full week of audio events in New York: [WASPAA](https://www.waspaa.com/), [SANE](http://www.saneworkshop.org/sane2019/), and [DCASE](http://dcase.community/workshop2019/). I am giving a talk at WASPAA and a poster presentation at SANE. Here is my paper to present: [pdf](https://www.bongjunkim.com/pages/files/papers/waspaa_2019_kim.pdf)
