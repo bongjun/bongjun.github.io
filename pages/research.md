@@ -4,7 +4,9 @@ title: Research
 description: Bongjun Kim's research
 ---
 
-Currently, I am working on an interactive intelligent interface and AI for sound. Specifically, I am interested in how to reduce human annotation effort for both manual sound event annotation and building automated sound event detection systems. In the past, I have worked on musical interfaces, computer-generated music, and interactive media art. 
+<!--Currently, I am working on an interactive intelligent interface and AI for sound. Specifically, I am interested in how to reduce human annotation effort for both manual sound event annotation and building automated sound event detection systems. In the past, I have worked on musical interfaces, computer-generated music, and interactive media art.-->
+
+My research interests lie in the intersection of machine learning, audio processing, and HCI. I've been researching how to build AI models for sound recognition with less human annotation effort. If you are interested in this area, watch my talk that summarizes my past research topics: [YouTube link](https://youtu.be/kUNB2B4kn10) 
 
 <hr>
 
@@ -29,7 +31,8 @@ You can improve audio search resultsjust by imitating sound events you do or do 
 <a href="{{ BASE_PATH }}/pages/projects/ised.html"><img src="{{ BASE_PATH }}/pages/files/ised_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [A Human-in-the-loop System for Sound Event Detection and Annotation]({{ BASE_PATH }}/pages/projects/ised.html)
 
-The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording. [[read more]]({{ BASE_PATH }}/pages/projects/ised.html)<br><br>
+The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording. [[paper]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018) [[talk at IUI19]](https://youtu.be/wuUxtl-iqQk) [[demo video]](https://youtu.be/Ss2eGSW4_4w) [[web demo]](http://54.68.168.116/)
+[[read more]]({{ BASE_PATH }}/pages/projects/ised.html)<br><br>
 
 <br>
 <a href="{{ BASE_PATH }}/pages/research.html"><img src="{{ BASE_PATH }}/pages/files/imitationset_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
