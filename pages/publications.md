@@ -50,13 +50,16 @@ description: Bongjun Kim's publications
 
 * [[link]](http://ieeexplore.ieee.org/document/4682212/) Minkoo Kang, Kiejin Park, and **Bongjun Kim**, “Determining the Size of a Static Segment and Analyzing the Utilization of In-vehicle FlexRay Network,” *Third International Conference on Convergence and Hybrid Information Technology*, Vol. 2, pp.50-53, Nov. 2008.
 
-### Thesis
+### Disseration
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/bongjun_kim_thesis.pdf) **Bongjun Kim**, “Sound Event Annotation and Detection with Less Human Effort,” PhD thesis, Northwestern University, Evanston, IL, USA, 2020.
 
 ### Patents
-* [[link]](http://www.freepatentsonline.com/y2019/0122678.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 20190122678, April 2019.
 
-* [[link]](http://www.freepatentsonline.com/y2019/0122673.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 20190122673, April 2019.
+* [[link]](http://www.freepatentsonline.com/y2019/0122673.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 10733998, August 2020.
+
+* [[link]](http://www.freepatentsonline.com/y2019/0122678.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 10629213, April 2020.
+
+
 
 ### Technical Reports
 * [[pdf]]({{ BASE_PATH }}/pages/files/papers/dcase19_task5.pdf) **Bongjun Kim**, "Convolutional Neural networks with Transfer Learning for Urban Sound Tagging," Detection and Classification of Acoustic Scenes and Events (DCASE) challenge 2019, Task5. (==> Placed **3rd** out of 22 systems competing and **2nd** in team rankings: Check the [Leaderboard](http://dcase.community/challenge2019/task-urban-sound-tagging-results))
