@@ -6,7 +6,12 @@ description: Bongjun Kim's research
 
 <!--Currently, I am working on an interactive intelligent interface and AI for sound. Specifically, I am interested in how to reduce human annotation effort for both manual sound event annotation and building automated sound event detection systems. In the past, I have worked on musical interfaces, computer-generated music, and interactive media art.-->
 
-My research interests lie in the intersection of machine learning, audio processing, and HCI. I've been researching how to build AI models for sound recognition with less human annotation effort. If you are interested in this area, watch my talk that summarizes my past research topics: [YouTube link](https://youtu.be/kUNB2B4kn10) 
+My research interests lie in the intersection of machine learning, audio processing, and HCI. I've been researching how to build AI models for sound recognition with less human annotation effort. 
+
+<!-- If you are interested in this area, watch my talk that summarizes my past research topics: [YouTube link](https://youtu.be/kUNB2B4kn10)
+ -->
+### Talk: Overview of my PhD research
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kUNB2B4kn10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
