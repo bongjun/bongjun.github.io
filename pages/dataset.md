@@ -4,4 +4,12 @@ title: Dataset
 description: Bongjun Kim's dataset
 ---
 
-Dataset
+### Vocal Imitation Set: Thousands of vocal imitations of hundreds of sounds from the AudioSet ontology
+
+The Vocal Imitation Set is a collection of crowd-sourced vocal imitations of a large set of diverse sounds collected from Freesound (https://freesound.org/), which were curated based on Google's AudioSet ontology (https://research.google.com/audioset/). We expect that this dataset will help research communities obtain a better understanding of human's vocal imitation and build a machine understand the imitations as humans do.
+
+Download link: https://doi.org/10.5281/zenodo.1340763
+
+For citations, please use this reference:
+
+Bongjun Kim, Madhav Ghei, Bryan Pardo, and Zhiyao Duan, "Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology," Proceedings of the Detection and Classification of Acoustic Scenes and Events 2018 Workshop (DCASE2018), Nov. 2018.
