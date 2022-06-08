@@ -9,7 +9,7 @@ keywords: Machine learning, Audio, Human-Computer Interaction
 
 
 ## Bongjun Kim  <a href="/images/me2.jpeg" target="_blank"><img src="../pages/files/bongjun_profile.jpg" width="35%" height="35%" align="right"></a>
-Data Scientist | AI Lab at 3M <br>
+Data Scientist | 3M <br>
 Ph.D in Computer Science <br>
 
 <em>CV: </em><a href="{{ BASE_PATH }}/pages/files/BK_CV.pdf" target="_blank">PDF</a>  <small>(Mar., 2021)</small> <br>
@@ -33,7 +33,7 @@ Ph.D in Computer Science <br>
   <b><font size="3">(interactive) Machine Learning | Audio Signal Processing | HCI </font></b>
 </p>
 
-I am currently an AI reseacher in AI Lab of 3M. I completed my PhD in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) as a member of the [Interactive Audio Lab](https://interactiveaudiolab.github.io/) (Advisor: [Bryan Pardo](https://interactiveaudiolab.github.io/people-current/1_bryan-pardo.html)). 
+I am currently an AI reseacher at 3M. I completed my PhD in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) as a member of the [Interactive Audio Lab](https://interactiveaudiolab.github.io/) (Advisor: [Bryan Pardo](https://interactiveaudiolab.github.io/people-current/1_bryan-pardo.html)). 
 
 My research interests inlucde machine learning, audio signal processing (e.g., sound event recognition), intelligent interactive system, multimedia information retrieval, and human-in-the-loop interface. I also enjoy working on a musical interface and interactive media art.
 <hr>
