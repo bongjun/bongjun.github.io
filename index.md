@@ -35,7 +35,7 @@ Ph.D in Computer Science <br>
 
 I am currently an AI reseacher at 3M. I completed my PhD in computer science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) as a member of the [Interactive Audio Lab](https://interactiveaudiolab.github.io/) (Advisor: [Bryan Pardo](https://interactiveaudiolab.github.io/people-current/1_bryan-pardo.html)). 
 
-My research interests inlucde machine learning, audio signal processing (e.g., sound event recognition), intelligent interactive system, multimedia information retrieval, and human-in-the-loop interface. I also enjoy working on a musical interface and interactive media art.
+My research interests inlucde machine learning, audio signal processing (e.g., sound event recognition), intelligent interactive system, multimedia information retrieval, and human-in-the-loop interface. I enjoy working on a musical interface and interactive media art. I also make [music](https://www.youtube.com/channel/UCom0m2uzbUfnPI8ganSJvew/featured)
 <hr>
 
 ### News
