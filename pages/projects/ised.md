@@ -7,9 +7,8 @@ description: Interactive Sound Event Detector
 I-SED is a human-in-the-loop interface for sound event annotation that helps users label sound events of interest within a lenghty recording quickly. The system speeds up human's searching for a set of sound events of interest in an audio recording when there are too few labeled examples (e.g., one) of the sound class to train a state-of-the-art machine audio labeling system.
 
 ### Demo video
+#### You can also try the demo interface on your local machine: [https://github.com/bongjun/ised](https://github.com/bongjun/ised)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss2eGSW4_4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Try the demo interface on your local machine: [https://github.com/bongjun/ised](https://github.com/bongjun/ised)
 
 ### Talk (IUI 2019)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wuUxtl-iqQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
