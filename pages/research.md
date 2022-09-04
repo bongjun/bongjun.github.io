@@ -36,7 +36,7 @@ You can improve audio search resultsjust by imitating sound events you do or do 
 <a href="{{ BASE_PATH }}/pages/projects/ised.html"><img src="{{ BASE_PATH }}/pages/files/ised_icon.png" width="35%" height="35%" align="left" style="margin:10px 20px "></a>
 #### [A Human-in-the-loop System for Sound Event Detection and Annotation]({{ BASE_PATH }}/pages/projects/ised.html)
 
-The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording. [[paper]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018) [[talk at IUI19]](https://youtu.be/wuUxtl-iqQk) [[demo video]](https://youtu.be/Ss2eGSW4_4w) [[web demo]](http://54.68.168.116/)
+The human-machine collaboration speeds up searching for sound events of interest within a lengthy audio recording. [[paper]]({{ BASE_PATH }}/pages/files/papers/kim_pardo_tiis_2018) [[talk at IUI19]](https://youtu.be/wuUxtl-iqQk) [[demo video]](https://youtu.be/Ss2eGSW4_4w) [[code]](https://github.com/bongjun/ised)
 [[read more]]({{ BASE_PATH }}/pages/projects/ised.html)<br><br>
 
 <br>
