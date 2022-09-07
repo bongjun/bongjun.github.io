@@ -25,4 +25,11 @@ Bongjun Kim, Madhav Ghei, Bryan Pardo, and Zhiyao Duan, "Vocal Imitation Set: a 
 #### I-SED: Interactive Sound Event Detector
 
 * A human-in-the-loop interface for sound event annotation.
-* [[github link]](https://github.com/bongjun/ised)
+* [https://github.com/bongjun/ised](https://github.com/bongjun/ised)
+
+#### Audio embedding model
+* [https://github.com/bongjun/M-VGGish](https://github.com/bongjun/M-VGGish)
+
+#### DCASE Challenge 2019 submission
+* Task5: Urban sound tagging
+* [https://github.com/bongjun/dcase2019-task5](https://github.com/bongjun/dcase2019-task5)
