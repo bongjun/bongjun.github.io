@@ -9,7 +9,7 @@ keywords: Machine learning, Audio, Human-Computer Interaction
 
 
 ## Bongjun Kim  <a href="/images/me2.jpeg" target="_blank"><img src="../pages/files/bongjun_profile.jpg" width="35%" height="35%" align="right"></a>
-Data Scientist | 3M <br>
+AI reseacher | 3M <br>
 Ph.D in Computer Science <br>
 
 <em>CV: </em><a href="{{ BASE_PATH }}/pages/files/BK_CV.pdf" target="_blank">PDF</a>  <small>(Mar., 2022)</small> <br>
