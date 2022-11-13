@@ -19,6 +19,15 @@ For citations, please use this reference:
 
 Bongjun Kim, Madhav Ghei, Bryan Pardo, and Zhiyao Duan, "Vocal Imitation Set: a dataset of vocally imitated sound events using the AudioSet ontology," Proceedings of the Detection and Classification of Acoustic Scenes and Events 2018 Workshop (DCASE2018), Nov. 2018.
 
+
+#### Fine-grained Vocal Imitation Set
+This dataset includes 763 crowd-sourced vocal imitations of 108 sound events. The sound event recordings were taken from a subset of Vocal Imitation Set.
+
+While the Vocal Imitation Set only contains vocal imitations of a single reference recording per class, this new dataset contains vocal imitations of multiple reference recordings per class.
+
+[[Download link]](https://doi.org/10.5281/zenodo.3538534)
+
+
 ---- 
 ## Codes
 
