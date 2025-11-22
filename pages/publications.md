@@ -6,7 +6,7 @@ description: Bongjun Kim's publications
 
 ### Conference & Journal Papers
 
-*[[pdf]](https://www.isca-archive.org/interspeech_2025/kim25k_interspeech.pdf) **Bongjun Kim**, Arindam Ghosh, Mark Fuhs, Anurag Chowdhury, Deblin Bagchi, and Monika Woszczyna, "A Hybrid Approach to Combining Role Diarization with ASR for Professional Conversations," *Interspeech* 2025.
+* [[pdf]](https://www.isca-archive.org/interspeech_2025/kim25k_interspeech.pdf) **Bongjun Kim**, Arindam Ghosh, Mark Fuhs, Anurag Chowdhury, Deblin Bagchi, and Monika Woszczyna, "A Hybrid Approach to Combining Role Diarization with ASR for Professional Conversations," *Interspeech* 2025.
 
 * [[link]](https://www.mdpi.com/2076-0752/8/3/110/htm) Bryan Pardo, Mark Cartwright, Prem Seetharaman, and **Bongjun Kim**, "Learning to Build Natural Audio Production Interfaces," *Arts*, Vol. 8, Issue 3, 2019.
 
