@@ -1,10 +1,12 @@
-b---
+---
 layout: page
 title: Publications
 description: Bongjun Kim's publications
 ---
 
 ### Conference & Journal Papers
+
+* Arindam Ghosh, Mark Fuhs, Bongjun Kim, Anurag Chowdhury and Monika Woszczyna, "ASR-Synchronized Speaker-Role Diarization," *Interspeech* 2026.
 
 * [[pdf]](https://www.isca-archive.org/odyssey_2026/chowdhury26_odyssey.pdf) Anurag Chowdhury, Abhinav Misra, Yinong Wang, **Bongjun Kim**, Mark C Fuhs, and Monika Woszczyna, "Augmented State Space Speaker Clustering: Reformulating HMM Based Clustering To Improve Speaker Diarization," *Odyssey* 2026.
 
