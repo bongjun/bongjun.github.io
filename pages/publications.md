@@ -61,6 +61,8 @@ description: Bongjun Kim's publications
 
 ### Patents
 
+* M. Manner, L. Carlson, K. Kanukurthy, **B. Kim**, L. Kloc, G. Krueger, and G. Silsby, “Audio identification system for personal protective equipment,” WO/2022/224062, Oct 2022.
+
 * [[link]](http://www.freepatentsonline.com/y2019/0122673.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods, Apparatus and Articles of Manufacture to Identify Sources of Network Streaming Services," US 10733998, August 2020.
 
 * [[link]](http://www.freepatentsonline.com/y2019/0122678.html) Zafar Rafii, Markus Cremer, and **Bongjun Kim**. "Methods and Apparatus to Perform Windowed Sliding Transforms," US 10629213, April 2020.
